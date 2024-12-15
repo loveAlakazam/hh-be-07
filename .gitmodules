@@ -1,0 +1,3 @@
+[submodule "hhplus-tdd-java"]
+	path = hhplus-tdd-java
+	url = git@github.com:loveAlakazam/hhplus-tdd-java.git
